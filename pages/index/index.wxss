@@ -1,0 +1,6 @@
+/**index.wxss**/
+/* 关卡图片 */
+image{
+  width: 400rpx;
+  height: 400rpx;
+}

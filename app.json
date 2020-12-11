@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/game/game"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#e64340",
+    "navigationBarTitleText": "贪吃蛇小游戏"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <image src="/images/snake01.png" bindtap="goToGame" data-level="easy"></image>
+  <image src="/images/snake02.png" bindtap="goToGame" data-level="hard"></image>
+</view>
